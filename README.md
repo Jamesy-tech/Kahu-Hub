@@ -8,7 +8,7 @@ Kahu Hub is an article website where users can write, publish, and share their o
 ### Prerequisites
 Before you begin, make sure you have the following installed on your system:
 - Git
-- PHP (version 7.4 or higher recommended)
+- PHP
 - A web browser
 
 #### 1. Clone the Repository
